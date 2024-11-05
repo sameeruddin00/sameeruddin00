@@ -24,7 +24,7 @@
 
 [Linkdin]()
 
-
+ <a href="https://www.instagram.com/sameer_xxo/" target="_blank">Instagram</a>
 <!--
 **my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
