@@ -1,9 +1,9 @@
-## 👋 Hi there, I'm Sameer
+# 👋 Hi there, I'm Sameer
 🎓 Graduate Student in Data Science at Tuskegee University
 
 🔍 Passionate about unlocking insights through data and driving innovation
 
-#🔭 I’m currently working on ...
+##🔭 I’m currently working on ...
 
 - Research in building data models and predictive analytics
 - Projects in data visualization, statistical analysis, and big data
