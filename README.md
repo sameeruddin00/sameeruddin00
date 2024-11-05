@@ -3,15 +3,15 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
 🔍 Passionate about unlocking insights through data and driving innovation
 
 ## 🔭 I’m currently working on:
-- Research in building data models and predictive analytics
+- Research in building data models and predictive analytics.
 - Projects in data visualization, statistical analysis.
-- Crafting tools to turn complex data into actionable insights
+- Crafting tools to turn complex data into actionable insights.
 <!--## 🌱 I’m currently learning:
 + SAS programming
 + Genrative AI -->
 ## ⚡ Fun fact:
-+ I'm an analytical thinker and live diving into complex datasets
-+ I'm constantly learning and exploring the latest in tech and data science
++ I'm an analytical thinker and live diving into complex datasets.
++ I'm constantly learning and exploring the latest in tech and data science.
 
 ## 📫 Let’s connect! Check out my work below, or reach out to talk data!
 
