@@ -20,7 +20,7 @@
 
 ## 📫 Let’s connect! Check out my work below, or reach out to talk data!
 
-[Email Me](mailto:sameeruddin885@gmail.com) &nbsp;; [Instargam](https://www.instagram.com/sameer_xxo/")
+[Email Me](mailto:sameeruddin885@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Instargam](https://www.instagram.com/sameer_xxo/")
 <!--
 [Linkdin]()
 
