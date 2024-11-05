@@ -20,13 +20,11 @@
 
 ## 📫 Let’s connect! Check out my work below, or reach out to talk data!
 
-[Email](sameeruddin885@gmail.com)
-
-[Instargam](https://www.instagram.com/sameer_xxo/")
+[Email Me](mailto:sameeruddin885@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Instargam](https://www.instagram.com/sameer_xxo/")
 
 [Linkdin]()
 
- <a href="https://www.instagram.com/sameer_xxo/" target="_blank">Instagram</a>
+
 <!--
 **my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
