@@ -1,5 +1,11 @@
-## Hi there, I am Sameer👋
-I am a graduate student at Tuskegee University specilizing in Data Science.
+## 👋 Hi there, I'm Sameer
+🎓 Graduate Student in Data Science at Tuskegee University
+🔍 Passionate about unlocking insights through data and driving innovation
+
+🔭 What I’m Working On:
+- Research in building data models and predictive analytics
+* Projects in data visualization, statistical analysis, and big data
++ Crafting tools to turn complex data into actionable insights
 <!--
 **sameeruddin00/sameeruddin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
