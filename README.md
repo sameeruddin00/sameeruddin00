@@ -18,10 +18,13 @@
 + I'm an analytical thinker and live diving into complex datasets
 + I'm constantly learning and exploring the latest in tech and data science
 
-📫 Let’s connect! Check out my work below, or reach out to talk data!
+## 📫 Let’s connect! Check out my work below, or reach out to talk data!
+
 [Email](sameeruddin885@gmail.com)
 
 [Linkdin]()
+
+
 <!--
 **my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
