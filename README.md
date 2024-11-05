@@ -3,7 +3,7 @@
 
 🔍 Passionate about unlocking insights through data and driving innovation
 
-- 🔭 I’m currently working on ...
+**🔭 I’m currently working on ...
 
 - Research in building data models and predictive analytics
 - Projects in data visualization, statistical analysis, and big data
@@ -17,7 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Shoot an email](mailto:sameeruddin885@gmail.com)
+
 **my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
