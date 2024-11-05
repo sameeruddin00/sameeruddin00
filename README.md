@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Shoot an email](mailto:sameeruddin885@gmail.com)
+**my stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
