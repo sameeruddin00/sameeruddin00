@@ -1,5 +1,6 @@
 ## 👋 Hi there, I'm Sameer
 🎓 Graduate Student in Data Science at Tuskegee University
+
 🔍 Passionate about unlocking insights through data and driving innovation
 
 🔭 What I’m Working On:
