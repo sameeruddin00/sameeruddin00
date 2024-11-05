@@ -4,7 +4,7 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
 
 ## 🔭 I’m currently working on:
 - Research in building data models and predictive analytics
-- Projects in data visualization, statistical analysis, and big data
+- Projects in data visualization, statistical analysis.
 - Crafting tools to turn complex data into actionable insights
 <!--## 🌱 I’m currently learning:
 + SAS programming
