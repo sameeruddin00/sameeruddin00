@@ -18,7 +18,6 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
   <a href="https://github.com/sameeruddin00">
     <img src="https://badges.pufler.dev/visits/sameeruddin00/sameeruddin00?style=flat-square&color=black&logo=github">
   </a>
- <img src="https://badges.pufler.dev/visits/sameeruddin00/count.svg/sameeruddin00?style=flat-square&color=black&logo=github">
 
 
 <!--
