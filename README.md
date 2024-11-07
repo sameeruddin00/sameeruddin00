@@ -17,7 +17,15 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/sameeruddin00/count.svg" />
+
+<a href="https://github.com/sameeruddin00">
+    <img src="https://badges.pufler.dev/visits/sameeruddin00/sameeruddin00?style=flat-square&color=black&logo=github">
+  </a>
+
+ <a href="https://github.com/sameeruddin00?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/sameeruddin00?style=flat-square&color=black&logo=github">
+  </a>
+
 <!--
 **my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
