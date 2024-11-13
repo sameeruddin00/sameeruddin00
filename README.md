@@ -1,4 +1,4 @@
-## Hey! Nice to see you. I'm Sameer <a href=<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+## Hey! Nice to see you. I'm Sameer <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Graduate Student 🎓 in Data Science at Tuskegee University diving in to the world of data analytics and machine learning.
 🔍 Passionate about unlocking insights through data and driving innovation
 
