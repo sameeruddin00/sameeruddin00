@@ -18,14 +18,11 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
  <img src="https://badges.pufler.dev/repos/sameeruddin00?style=flat-square&color=black&logo=github">
   </a> 
   <a href="https://github.com/sameeruddin00">
-    <img src="https://badges.pufler.dev/visits/sameeruddin00/sameeruddin00?style=flat-square&color=black&logo=github">
+  <img src="https://badges.pufler.dev/visits/sameeruddin00/sameeruddin00?style=flat-square&color=black&logo=github">
   </a>
 
 
 <!--
 **my stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameeruddin00&show_icons=true&theme=gotham" alt="sameeruddin00" />
-
-
-<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 -->
