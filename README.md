@@ -21,6 +21,7 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
   <img src="https://badges.pufler.dev/visits/sameeruddin00/sameeruddin00?style=flat-square&color=black&logo=github">
   </a>
   
+![GitHub Streak](https://streak-stats.demolab.com/?user=sameeruddin00&theme=dark)
 
 <!--
 
