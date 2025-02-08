@@ -1,4 +1,4 @@
-## Hey! Nice to see you. I'm Sameer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
+## Hey! I'm Sameer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> 
 
 
 Graduate Student 🎓 in Data Science at Tuskegee University diving in to the world of data analytics and machine learning.
