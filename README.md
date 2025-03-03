@@ -15,13 +15,13 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
 
 
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=sameeruddin00&theme=dark" width="300px">
-</p>
-
 
 
 <!--
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=sameeruddin00&theme=dark" width="300px">
+</p>
 
 [![Visitors](https://shields.io/badge/visitors-%20-blue)](https://github.com/sameeruddin00)
 [![Repositories](https://shields.io/badge/repos-%20-orange)](https://github.com/sameeruddin00?tab=repositories)
