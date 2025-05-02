@@ -9,7 +9,7 @@ Graduate Student 🎓 in Data Science at Tuskegee University diving in to the wo
 - Projects in data visualization, statistical analysis.
 - Crafting tools to turn complex data into actionable insights.
 
-## 📫 Let’s connect! Reach me at
+## 📫 Let’s connect! Reach me at:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/sameeruddin00/) [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/1148633255248138270) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/profile.php?id=100008046222269/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/sameer_xxo/) &nbsp;[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:smohammed8703@tuskegee.edu)
 
